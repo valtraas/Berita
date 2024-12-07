@@ -1,0 +1,18 @@
+{
+    "Data": [
+        {
+            "judul":"Apa itu Termux ?",
+            "slug": "apa-itu-termux",
+            "img": "/Termux.png",
+            "creator": "Unknown",
+            "isi": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet"
+        },
+        {
+            "judul": "Cara setting winlator tembus 120 fps",
+            "slug": "cara-setting-winlator-tembus-120-fps",
+            "img": "/Winlator.jpg",
+            "creator": "Unknown1",
+            "isi": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet"
+        }
+    ]
+}
